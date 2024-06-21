@@ -74,3 +74,12 @@ SELECT
     a.AthleteName AS coach
 FROM 
     a;
+```
+
+## Sample Chart in Azure Synapse Analytics
+- [SQL script 1.png](https://github.com/MithunDataPro/Tokyo-Olympic-Azure-Data-Engineering-Project/blob/main/SQL%20script%201.png)
+
+# Conclusion
+This project showcases a comprehensive data engineering pipeline using Azure services. From data ingestion to transformation and visualization, each step demonstrates the power and flexibility of Azure for handling complex data workflows.
+
+
