@@ -6,6 +6,8 @@ This project demonstrates a complete data engineering pipeline using various Azu
 
 ## Project Architecture
 
+![image](https://github.com/MithunDataPro/Tokyo-Olympic-Azure-Data-Engineering-Project/assets/131516799/89cb43dc-eeb0-45a1-9ef7-f08953a9e1eb)
+
 
 ## Data Set
 
